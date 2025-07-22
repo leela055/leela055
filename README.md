@@ -1,5 +1,5 @@
 
-#  LEELA VARDHAN RAJU — AI Enthusiast | Developer | Designer
+#  LEELA SAI VARDHAN RAJU — AI Enthusiast | Developer | Designer
 
 ## 🚀 About Me
 - 🎓 3rd Year Student specializing in **AI for Computational Intelligence**
